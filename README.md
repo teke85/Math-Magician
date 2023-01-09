@@ -3,17 +3,17 @@
 # Math Magicians
 
 # Description of the project.
-- Simple React web application setup.
-- configure with linters 
+- To Set up the environment and tools needed to develop a React application.
+- Configure with special linters. 
 
 # Getting Started
 
-**please get your browser update. To get a local copy up and running follow these simple steps.**
+**To get a local copy up and running follow these simple steps.**
 
 Run the command below from the terminal
 
 - git clone in your terminal
-- cd react-setup
+- cd math-magician
 - run: npm start
 
 ## Built With
