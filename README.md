@@ -23,7 +23,7 @@
 Run the command below from the terminal
 
 - git clone in your terminal
-- cd react-setup
+- cd math-magician
 - run: npm start
 
 ## Demo
