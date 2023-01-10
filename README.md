@@ -16,6 +16,10 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
+# Future Features
+
+- To add 3 pages to the website which will display different information
+
 # Getting Started
 
 **please get your browser update. To get a local copy up and running follow these simple steps.**
