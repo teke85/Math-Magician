@@ -18,7 +18,7 @@
 
 # Getting Started
 
-**please get your browser update. To get a local copy up and running follow these simple steps.**
+**To get a local copy up and running follow these simple steps.**
 
 Run the command below from the terminal
 
