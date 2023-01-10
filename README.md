@@ -26,8 +26,8 @@
 
 Run the command below from the terminal
 
-- git clone in your terminal
-- cd math-magician
+- git clone (https://github.com/teke85/Math-Magician.git) in your terminal
+- cd Math-Magician
 - run: npm start
 
 ## Demo
