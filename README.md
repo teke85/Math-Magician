@@ -30,9 +30,10 @@ Run the command below from the terminal
 - cd Math-Magician
 - run: npm start
 
-## Demo
+## Screenshot
 
-Not Available
+![React App](https://user-images.githubusercontent.com/29442846/212318591-cb801439-0418-4248-a0b4-e26509eac837.png)
+
 
 ## Author
 
