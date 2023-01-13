@@ -3,8 +3,7 @@
 # Math Magicians
 
 # Description of the project.
-- To Set up the environment and tools needed to develop a React application.
-- Configure with special linters. 
+- To continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality: a calculator.
 
 # Built With
 
