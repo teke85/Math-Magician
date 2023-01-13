@@ -30,8 +30,7 @@ Run the command below from the terminal
 - run: npm start
 
 ## Screenshot
-
-![React App](https://user-images.githubusercontent.com/29442846/212318591-cb801439-0418-4248-a0b4-e26509eac837.png)
+![React App (1)](https://user-images.githubusercontent.com/29442846/212324382-62851df0-4917-4758-8cd4-8c6da2d7fe96.png)
 
 
 ## Author
