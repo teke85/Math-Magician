@@ -9,14 +9,18 @@ html {
 }
 
 body {
-  background-color: rgb(251, 251, 251);
+  background-color: #E0E0E0;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.6rem;
   height: 100vh;
 }
 
+.bg {
+  background-color: #E0E0E0;
+}
+
 .btn {
-width: 100%;
+  width: 100%;
 }
 
 .num {
@@ -32,7 +36,7 @@ width: 100%;
 }
 
 .orange {
-  background-color: #F5913E !important;
+  background-color: #f5913e !important;
 }
 
 /* .container {

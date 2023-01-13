@@ -20,7 +20,7 @@ class Calculator extends React.Component {
         <div className="row justify-content-center">
           <div className="col-md-8">
             <div className="card mb-3">
-              <div className="card-body">
+              <div className="card-body bg">
                 <div className="col-md-12 display num">0</div>
                 <div className="row d-flex justify-content-between mt-2">
                   <div className="col-3">
@@ -56,7 +56,7 @@ class Calculator extends React.Component {
                     </button>
                   </div>
                 </div>
-                <div className="row mt-5">
+                <div className="row mt-1">
                   <div className="col-3">
                     <button
                       className="btn btn-light shadow p-4 fs-4"
@@ -90,7 +90,7 @@ class Calculator extends React.Component {
                     </button>
                   </div>
                 </div>
-                <div className="row d-flex justify-content-between mt-5">
+                <div className="row d-flex justify-content-between mt-1">
                   <div className="col-3">
                     <button
                       className="btn btn-light shadow p-4 fs-4"
@@ -124,7 +124,7 @@ class Calculator extends React.Component {
                     </button>
                   </div>
                 </div>
-                <div className="row d-flex justify-content-between mt-5">
+                <div className="row d-flex justify-content-between mt-1">
                   <div className="col-3">
                     <button
                       className="btn btn-light shadow p-4 fs-4"
@@ -158,7 +158,7 @@ class Calculator extends React.Component {
                     </button>
                   </div>
                 </div>
-                <div className="row d-flex justify-content-between mt-5">
+                <div className="row d-flex justify-content-between mt-1">
                   <div className="col-6">
                     <button
                       className="btn btn-light shadow p-4 fs-4"
