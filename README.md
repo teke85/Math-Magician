@@ -41,15 +41,37 @@
   </ul>
 </details>
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="">Not Available</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="">No Database</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
+
 Make simple calculations.
 
 ### Key Features <a name="key-features"></a>
 
-- **User Interface of Calculator**
-- **Calculation functionality**
+- **[ReactJs]**
+- **[Linter files]**
+- **[Componets]**
 
-<p align="right">(<a href="#key-features">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Not Available
 
 <!-- GETTING STARTED -->
 
@@ -63,14 +85,10 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd Math-Magician
   git clone https://github.com/teke85/Math-Magician
 ```
---->
 
 ### Install
 
@@ -88,7 +106,6 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<!--
 - git clone (https://github.com/teke85/Math-Magician.git) in your terminal
 - cd Math-Magician
 - run: npm start
@@ -115,9 +132,8 @@ To run the project, execute the following command:
 
 > Describe 1 - 3 features you will add to the project.
 
-- **calculator**
-- **random quote**
-- **navigation menu**
+- **Refactor with hooks**
+- **Add components**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +163,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for the continued support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
