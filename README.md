@@ -47,14 +47,10 @@ Make simple calculations.
 
 ### Key Features <a name="key-features"></a>
 
-- **[User Interface of Calculator]**
-- **[Calculation functionality]**
+- **User Interface of Calculator**
+- **Calculation functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo">https://user-images.githubusercontent.com/29442846/212468244-f1b44718-20a1-4bd2-9acc-7d7d6ff81a8c.mp4</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
