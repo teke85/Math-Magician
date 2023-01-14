@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -25,9 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 Math Magicians <a name="about-project"></a>
 
 **Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
