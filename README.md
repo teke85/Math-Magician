@@ -50,9 +50,7 @@ Make simple calculations.
 - **User Interface of Calculator**
 - **Calculation functionality**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#key-features">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
