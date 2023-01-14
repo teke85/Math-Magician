@@ -25,14 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 Math Magicians <a name="about-project"></a>
 
 **Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
-Make simple calculations.
-Read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS, JS</a>
 
@@ -47,39 +42,19 @@ Read a random math-related quote.
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
+Make simple calculations.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[User Interface of Calculator]**
+- **[Calculation functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+## 🚀 Live Demo <a name="live-demo">https://user-images.githubusercontent.com/29442846/212468244-f1b44718-20a1-4bd2-9acc-7d7d6ff81a8c.mp4</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,18 +66,6 @@ Read a random math-related quote.
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -111,8 +74,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd Math-Magician
+  git clone https://github.com/teke85/Math-Magician
 ```
 --->
 
@@ -121,7 +84,6 @@ Example commands:
 Install this project with:
 
 <!--
-Example command:
 
 ```sh
   cd my-project
@@ -134,36 +96,9 @@ Example command:
 To run the project, execute the following command:
 
 <!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- git clone (https://github.com/teke85/Math-Magician.git) in your terminal
+- cd Math-Magician
+- run: npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
