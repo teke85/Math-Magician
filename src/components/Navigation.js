@@ -5,7 +5,7 @@ import './Navigation.css';
 const Navigation = () => (
   <nav className="nav-bar d-flex align-items-center justify-content-between">
     <h1 className="math-title">Math-Magician</h1>
-    <div className="tags mx-5">
+    <div className="mx-5">
       <Link to="/" className="link mx-5">
         Home
       </Link>
