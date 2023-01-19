@@ -125,7 +125,7 @@ Navigate to your desired folder and enter these commands:
 
 ```sh
   git clone https://github.com/teke85/Math-Magician.git
-  cd ToDos-Tutorial
+  cd Math-Magician
 ```
 
 
