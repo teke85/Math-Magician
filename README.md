@@ -1,3 +1,39 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -12,25 +48,35 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 "Math magicians" is a website for all fans of mathematics. 
+<a name="about-project"></a>
 
-**Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+> Describe your project in 1 or 2 sentences.
 
-## 🛠 Built With <a name="built-with">HTML, CSS, JS</a>
+**Math magicians App** is a Single Page App (SPA) that allows users to:
 
-### Tech Stack <a name="tech-stack">React</a>
+Make simple calculations.
+Read a random math-related quote.
+
+## 🛠 Built With <a name="built-with"></a>
+- React
+- JavaScript
+- HTML/CSS
+
+### Tech Stack <a name="tech-stack"></a>
+- React
+- JavaScript
+- HTML/CSS
+- Webpack
+- Babel
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -41,29 +87,12 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="">Not Available</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="">No Database</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
-
-Make simple calculations.
 
 ### Key Features <a name="key-features"></a>
 
-- **[ReactJs]**
-- **[Linter files]**
-- **[Componets]**
+- **To make simple calculations**
+- **To show random quotes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,44 +100,51 @@ Make simple calculations.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Not Available
+> Add a link to your deployed project.
 
-<!-- GETTING STARTED -->
+- [Live Demo Link](https://yourdeployedapplicationlink.com) Currently unavailable
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Node.js & npm
+- A web browser
+
 
 ### Setup
 
-Clone this repository to your desired folder:
+Navigate to your desired folder and enter these commands:
+
 
 ```sh
+  git clone https://github.com/teke85/Math-Magician.git
   cd Math-Magician
-  git clone https://github.com/teke85/Math-Magician
 ```
+
 
 ### Install
 
-Install this project with:
-
-<!--
+Install all dependencies with:
 
 ```sh
-  cd my-project
-  gem install
+  npm install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-- git clone (https://github.com/teke85/Math-Magician.git) in your terminal
-- cd Math-Magician
-- run: npm start
+```sh
+  npm start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,16 +162,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- **Refactor with hooks**
-- **Add components**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -151,23 +177,12 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, please give it a star ⭐
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for the continued support
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
+Special thanks to all the assistance received!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,7 +190,7 @@ I would like to thank Microverse for the continued support
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.txt) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 

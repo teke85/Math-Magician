@@ -17,15 +17,12 @@ const Calculator = () => {
   const { total, next, operation } = state;
 
   return (
-    <div className="container justify-content-center">
-      <div className="row">
-        <div className="col-12">
-          <h1 className="display-5 fw-bolder text-center">CALCULATOR</h1>
-          <hr />
+    <div className="calc container justify-content-center">
+      <div className="row mt-5">
+        <div className="col-6">
+          <h1 className="display-5 fw-bolder text-left">Lets do some Math!</h1>
         </div>
-      </div>
-      <div className="row justify-content-center">
-        <div className="col-md-8">
+        <div className="col-6">
           <div className="card mb-3">
             <div className="card-body bg">
               <div className="col-md-12 display num">
