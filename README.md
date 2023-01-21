@@ -102,7 +102,7 @@ Read a random math-related quote.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com) Currently unavailable
+- [Live Demo Link](https://math-magician-scrm.onrender.com) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
